@@ -1,6 +1,6 @@
 # linux_server_config_project_5
 
-Catalog up deployed on a linux server running Ubuntu 14.04.1
+Catalog app deployed on a linux server running Ubuntu 14.04.1 with appropriate modifications, configurations and installations of required packages and libraries
 
 ## Server IP: 52.11.56.253 SSH Port: 2200
 
