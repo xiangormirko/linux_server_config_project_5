@@ -4,6 +4,9 @@ Catalog app deployed on a linux server running Ubuntu 14.04.1 with appropriate m
 
 ## Server IP: 52.11.56.253 SSH Port: 2200
 
+In order to ssh as user grader please use command:
+ssh -p 2200 -i path to/udacity_key.rsa root@52.11.56.253
+
 ## Configurations and Changes
 
 -Created new server user
